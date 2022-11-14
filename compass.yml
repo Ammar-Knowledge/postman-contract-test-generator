@@ -1,0 +1,11 @@
+name: postman-contract-test-generator
+id: ari:cloud:compass:fe16f236-8ecb-4445-8586-5ebd155a2533:component/639c4a85-a7f7-47da-af17-094b43ea6ccc/96a582ec-83be-49be-8638-717ef6fb149e
+description: Postman collection and environment that will take an Open API Spec, validate component adherence, generate contract tests, and execute them.
+fields:
+  tier: 4
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/Ammar-Knowledge/postman-contract-test-generator
+relationships:
+  DEPENDS_ON: []
